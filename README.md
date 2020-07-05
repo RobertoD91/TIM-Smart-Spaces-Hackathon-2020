@@ -10,5 +10,5 @@ Nella cartella "Extra" è possibile visionare il codice del backend python per l
 
 Per attivare la realtà virtuale è necessario stampare il marker incluso nelle release.
 
-#Video Presentazione:
+# Video Presentazione:
 https://www.youtube.com/watch?v=JN5_ts_kZvI
