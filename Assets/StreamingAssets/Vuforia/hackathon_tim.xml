@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ar4-mod" size="0.400000 0.400000" />
+    <ImageTarget name="robot-tim1" size="0.300000 0.363130" />
+    <ImageTarget name="bobandc" size="0.100000 0.123701" />
+    <ImageTarget name="ar1" size="0.500000 0.500000" />
+    <CylinderTarget name="tim_soda" sideLength="10.500000"/>
+  </Tracking>
+</QCARConfig>

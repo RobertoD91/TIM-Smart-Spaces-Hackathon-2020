@@ -1,0 +1,1 @@
+ffmpeg -i my_clip_with_alpha.avi -vcodec vp8 -acodec libvorbis -pix_fmt yuva420p -metadata:s:v:0 alpha_mode=”1″ -auto-alt-ref 0 my_vp8_clip_with_alpha.webm​
