@@ -7,3 +7,5 @@ Una versione precompilata è disponibile nella sezione release, per iOS e Androi
 È possibile ricompilare in autonomia il progetto, è necessario inserire una chiave per la licenza gratuita di Vuforia e una API Key per accedere al backend messo a disposizione da TIM.
 
 Nella cartella "Extra" è possibile visionare il codice del backend python per le api di vision usate per il posizionamento del drone e l'app iOS per poter controllare il simulatore.
+
+Per attivare la realtà virtuale è necessario stampare il marker incluso nelle release.
